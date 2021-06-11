@@ -1,1 +1,0 @@
-web: gunicorn flasgger:app
