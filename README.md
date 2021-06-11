@@ -6,7 +6,7 @@ Data were extracted from images that were taken from genuine and forged banknote
 3. Deployed on Heroku (cloud application platform). 
 4. Link- https://banknote-authntication.herokuapp.com/apidocs/
 
-# Future Scope
+## Future Scope
 
 * Creating a good Front-End.
 
